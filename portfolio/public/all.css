@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-size: 2rem;
+    min-height: 100vh;
+}
+.senter {
+  margin: 100px;
+}
+p {
+    text-align: center;
+}
